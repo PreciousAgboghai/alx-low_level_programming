@@ -1,2 +1,1 @@
-[1m
-Low Level Programming
+[1mLow Level Programming[0m
