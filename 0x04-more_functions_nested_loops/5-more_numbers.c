@@ -2,7 +2,6 @@
 
 /**
  * more_numbers -  prints 10 times the numbers
- * 
  * Return: no return
  */
 
