@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * read_textfile - reads a text file and prints it to standard output
+ * create_file - create a file with read/write access for user
  * @filename: name of the file
  * @letters: number of letters
  * Return: if success return number of letter, else return 0
