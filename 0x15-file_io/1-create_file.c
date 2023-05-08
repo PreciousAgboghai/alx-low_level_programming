@@ -2,9 +2,9 @@
 
 /**
  * create_file - create a file with read/write access for user
- * @filename: name of the file
- * @letters: number of letters
- * Return: if success return number of letter, else return 0
+ * @filename: name of file to create
+ * @text_content: string to write to file
+ * Return: 1 on success, -1 on failure
  */
 
 int create_file(const char *filename, char *text_content)
